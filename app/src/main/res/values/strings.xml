@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prigma</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_encypt_back">Encypt_back</string>
+    <string name="title_activity_dock">Dock</string>
+    <string name="title_activity_decrypt_back">Decrypt_back</string>
+</resources>

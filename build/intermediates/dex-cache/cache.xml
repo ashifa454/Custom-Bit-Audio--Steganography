@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="L:\PrigmaNew\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="728ee72e65c8fde9c32acd54355abe470ead379b">
+        <dex dex="L:\PrigmaNew\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_edf8893bb84bb181c4aae0edeb8f7b732151b7bc\classes.dex" />
+    </item>
+
+</items>
